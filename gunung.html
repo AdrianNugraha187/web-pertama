@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>gunung prau and bromo</title>
+  </head>
+  <body>
+    <h3>Gunung Prau</h3>
+    <img src="sejarah_gunung_prau.jpg"alt="Gunung Prau"width="500">
+    <p>Gunung Prau adalah salah satu gunung di Jawa Tengah yang terkenal karena pemandangan sunrise-nya yang indah.<br>
+      source from wikipedia<a href="https://www.gearberg.com/gunung/info-gunung/1011/home"target="_blank"> baca selengkapnya di gearberg</a>
+<hr>
+<h3>bromo mt</h3>
+<img src="gunung_bromo.jpg"alt="Gunung bromo"width="400">
+<p>bromo is a mountain located in east java.bromo also is known to be very beautiful.<br>
+  i myself went to the bromo with my friends 2 years ago. that time, i was really amazed by the beautiful view of bromo.<br>
+i went to bukit teletabis,enjoying beautiful view bromo,and taking pictures.but in bromo also was very cold even i wore<br>
+thick clothes were still cold.</p>
+    <style>
+  h3 {
+    color: red;
+    font-size: 30px;
+  }
+  p {
+    color: blue;
+  }
+</style>
+
+  </body>
+</html>
